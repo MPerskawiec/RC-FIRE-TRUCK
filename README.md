@@ -1,5 +1,5 @@
 # RC-FIRE-TRUCK
-Fire Truck RC -  controlled via bluetooth module with the ability to move forward, backward, left, and right. Equipped with light and sound signals, lifting light mast and a water cannon. 
+Fire Truck RC -  controlled via bluetooth module with the ability to move forward, backward, left, and right. Equipped with light and sound signals, lifting light mast and a water cannon.  
 
 ![4](https://github.com/MPerskawiec/RC-FIRE-TRUCK/assets/96746401/87f0987b-4962-477c-a872-f89baeb040a0)
 
