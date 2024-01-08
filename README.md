@@ -1,7 +1,3 @@
-
-https://github.com/MPerskawiec/RC-FIRE-TRUCK/assets/96746401/19447b47-689c-4e81-8991-acbdf0e70a74
-
-https://github.com/MPerskawiec/RC-FIRE-TRUCK/assets/96746401/feaa7391-6068-4dc6-a9c3-cc496418b4de
 # RC-FIRE-TRUCK
 Fire Truck RC -  controlled via bluetooth module with the ability to move forward, backward, left, and right. Equipped with light and sound signals, lifting light mast and a water cannon. 
 
@@ -13,7 +9,7 @@ Fire Truck RC -  controlled via bluetooth module with the ability to move forwar
 
 ![5](https://github.com/MPerskawiec/RC-FIRE-TRUCK/assets/96746401/dbc03d8a-0c40-43b3-9ace-e5a12d5d230f)
 
-Uploading VID_20190129_084400.mp4…   Uploading VID_20190129_084317.mp4…
+https://github.com/MPerskawiec/RC-FIRE-TRUCK/assets/96746401/19447b47-689c-4e81-8991-acbdf0e70a74 https://github.com/MPerskawiec/RC-FIRE-TRUCK/assets/96746401/feaa7391-6068-4dc6-a9c3-cc496418b4de
 
 
 
