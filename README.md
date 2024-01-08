@@ -12,6 +12,8 @@ Fire Truck RC -  controlled via bluetooth module with the ability to move forwar
 
 https://github.com/MPerskawiec/RC-FIRE-TRUCK/assets/96746401/09574df5-2088-4391-b9af-810b012f180f
 
+https://github.com/MPerskawiec/RC-FIRE-TRUCK/assets/96746401/c3977d30-4571-4215-b3af-52eff44aa553
+
 
 
 
